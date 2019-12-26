@@ -1,6 +1,6 @@
 # What:
 
-### A portfolio created in Figma
+### A landing page created in Figma
 
 #### Frames:
 
